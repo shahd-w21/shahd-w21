@@ -6,13 +6,12 @@
 
 ## 👩‍💻 About Me
 
-> Computer Science student at **Misr International University (MIU)** with a strong interest in **Software Engineering**, **Artificial Intelligence**, and **Network Infrastructure**. Passionate about problem-solving, continuous learning, and building impactful technology solutions.
+> Computer Science student at **Misr International University (MIU)** with a strong interest in **Artificial Intelligence**,**Software Engineering**, and **Network Infrastructure**. Passionate about problem-solving, continuous learning, and building impactful technology solutions.
 
 ```yaml
 name       : Shahd Walid Samy Hassan
 university : Misr International University (MIU)
 degree     : B.Sc. Computer Science (2024–2028)
-location   : Cairo, Egypt 📍
 goal       : Aspiring AI Engineer & Software Developer
 ```
 
