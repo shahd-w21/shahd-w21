@@ -1,11 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:7F77DD&height=200&section=header&text=Shahd%20Walid&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer%20in%20the%20Making&descAlignY=55&descSize=16)
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 > Computer Science student at **Misr International University (MIU)** with a strong interest in **Software Engineering**, **Artificial Intelligence**, and **Network Infrastructure**. Passionate about problem-solving, continuous learning, and building impactful technology solutions.
@@ -43,19 +35,6 @@ goal       : Aspiring AI Engineer & Software Developer
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 `Packet Tracer` `OSPF` `EIGRP` `VPNs` `Subnetting`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahd-w21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=7F77DD)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahd-w21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD)
-
-![Streak](https://streak-stats.demolab.com?user=shahd-w21&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=D85A30&currStreakLabel=7F77DD)
-
-</div>
 
 ---
 
@@ -97,10 +76,3 @@ goal       : Aspiring AI Engineer & Software Developer
 
 ---
 
-<div align="center">
-
-> *"Committed to continuous learning, innovation, and creating technology that makes an impact."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:185FA5&height=100&section=footer)
-
-</div>
