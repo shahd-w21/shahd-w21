@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shahd+Walid!;CS+Student+%7C+AI+Enthusiast;Software+Engineer+in+the+Making!&center=true&width=500&height=50)
+
+</div>
+
 ## 👩‍💻 About Me
 
 > Computer Science student at **Misr International University (MIU)** with a strong interest in **Software Engineering**, **Artificial Intelligence**, and **Network Infrastructure**. Passionate about problem-solving, continuous learning, and building impactful technology solutions.
