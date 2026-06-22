@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shahd+Walid!;CS+Student+%7C+AI+Enthusiast;Software+Engineer+in+the+Making!&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Shahd+Walid!+👋;CS+Student+|+AI+Enthusiast;Software+Engineer+in+the+Making!&center=true&width=700&height=80&size=32&weight=700&color=378ADD&pause=1000)
 
 </div>
 
